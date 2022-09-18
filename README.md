@@ -8,5 +8,6 @@
 ## Руководство пользователя
 Для работы программы необходимо ввести число от 1 до 999999, после чего число будет переведено в буквенный вид.
 ## Скриншоты
-![Test1](https://i.imgur.com/fHezRqf.png)
-![Test2](https://i.imgur.com/5o1rrLw.png)
+![](https://i.imgur.com/fHezRqf.png "Test1")
+![](https://i.imgur.com/5o1rrLw.png "Test2")
+![](https://i.imgur.com/Mg0YRcW.png "Test3")
